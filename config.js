@@ -23,7 +23,7 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
 global.owner = ['6285848171414','6285798267620']
-global.premium = ['6285798267620','6285848171414']
+global.premium = ['6285798267620']
 global.packname = 'GOD OF WAR'
 global.author = 'UNNAMED'
 global.wlcm = []
